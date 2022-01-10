@@ -21,7 +21,7 @@ public class Calc {
             System.out.println(menuMsg);
             int choice = sc.nextInt();
 
-            if(choice == 2)break;
+            if(choice == 2) break;
             if(choice != 1) continue;
 
             num1 = Integer.parseInt(sc.next());
