@@ -35,7 +35,7 @@ public class Car {
         // 클래스명(): 기본 생성자
         // 클래스를 선언하면 자동으로 선언되는 생성자
         Car momCar = new Car(9000, "Benz", "Black");
-                         // 기본생성자
+        // 기본생성자
         // 초기화를 쉽게 할 수 있도록 만들어둔게 생성자
         // 생성자는 new 뒤에 있는것과 똑같은 이름.
         Car dadyCar = new Car();

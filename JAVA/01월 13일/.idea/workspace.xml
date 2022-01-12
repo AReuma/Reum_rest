@@ -1,48 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="e3722951-4b0c-4a9c-81c9-a4380ebafa5f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Explain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OverLoading.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01월 12일/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01월 12일/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01월 12일/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01월 12일/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01월 12일/01월 12일.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01월 12일/out/production/01월 12일/Baekjoon_1271.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01월 12일/out/production/01월 12일/Baekjoon_1550.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01월 12일/src/Baekjoon_1271.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01월 12일/src/Baekjoon_1550.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01월 12일/src/Baekjoon_1712.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01월 12일/src/Baekjoon_2338.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01월 12일/src/Baekjoon_2420.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01월 12일/src/Baekjoon_2475.java" beforeDir="false" />
-    </list>
+    <list default="true" id="93fb980f-ed01-486c-bad6-a34726abd0fe" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
-  </component>
-  <component name="MarkdownSettingsMigration">
-    <option name="stateVersion" value="1" />
-  </component>
-  <component name="ProjectId" id="23bX8d9opany5spqLh80hK3ASYO" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="23bjk0SjGWFW04d75o6rEaHUY6w" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -51,56 +16,15 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.Animal">
-    <configuration name="Animal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Animal" />
-      <module name="01월 13일" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Car" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Car" />
-      <module name="01월 13일" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="OverLoading" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OverLoading" />
-      <module name="01월 13일" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.Animal" />
-        <item itemvalue="Application.Car" />
-        <item itemvalue="Application.OverLoading" />
-      </list>
-    </recent_temporary>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="e3722951-4b0c-4a9c-81c9-a4380ebafa5f" name="Changes" comment="" />
-      <created>1642003604594</created>
+      <changelist id="93fb980f-ed01-486c-bad6-a34726abd0fe" name="Changes" comment="" />
+      <created>1642009822180</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1642003604594</updated>
+      <updated>1642009822180</updated>
     </task>
     <servers />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
   </component>
 </project>
