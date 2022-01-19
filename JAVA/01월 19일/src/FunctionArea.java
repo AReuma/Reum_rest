@@ -1,7 +1,4 @@
-import java.util.concurrent.locks.Lock;
-import java.util.concurrent.locks.ReentrantLock;
-
-public class Area implements Runnable {
+public class FunctionArea implements Runnable {
     private final double num = 0.001;
 
     private static double ga;
@@ -9,21 +6,18 @@ public class Area implements Runnable {
     private static double area;
     private static int count;
     static double a;
-    // private Lock lock;
 
-    public Area(){
-        ga =2;
-        se =2;
-        a= 0.0;
+    public FunctionArea(int x){
+        ga = x;
+        se = x*x;
+
         area = 0.0;
 
         count =(int)(ga/num);
-        // lock = new ReentrantLock();
     }
 
     public void addArea(){
         try{
-            // lock.lock();
             a = se*num;
             area = area + a;
             System.out.println(area);
