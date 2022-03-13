@@ -2,8 +2,8 @@
   <div class="home">
     <div id="header">
 
-      <router-link :to="{name: 'BoardListPage'}"
-      class="nav-link" active-class="active">BoardListPage</router-link>
+      <router-link :to="{name: 'BoardListPage'}">BoardListPage</router-link>
+      <router-link :to="{ name: 'ConcaveView' }">&nbsp;삼목&nbsp;</router-link>
 
     </div>
   </div>

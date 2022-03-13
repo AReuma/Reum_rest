@@ -7,6 +7,8 @@ import BoardRegisterPage from '@/views/board/BoardRegisterPage.vue'
 import BoardReadPage from "@/views/board/BoardReadPage";
 import BoardModifyPage from "@/views/board/BoardModifyPage";
 
+import ConcaveView from "@/views/game/ConcaveView";
+
 Vue.use(VueRouter)
 
 const routes = [
@@ -45,8 +47,12 @@ const routes = [
     props: {
       default: true
     }
-  }
-
+  },
+  {
+    path: '/game/concave',
+    name: 'ConcaveView',
+    component: ConcaveView
+  },
 ]
 
 const router = new VueRouter({
